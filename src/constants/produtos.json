@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "Perfume",
+    "desc": "Miguel Rousseouf",
+    "value": "100.00",
+    "image": "https://img.irroba.com.br/fit-in/600x600/filters:fill(fff):quality(80)/volarium/catalog/produtos/volarium/perfume/perfume-feminino/perfume-feminino-ch-tradicional-importado-original.jpg",
+    "categoria": "Beleza",
+    "status": true
+  },
+  {
+    "id": 2,
+    "name": "Colar",
+    "desc": "Jand Karno em perolas",
+    "value": "2200.00",
+    "image": "https://cdn.awsli.com.br/600x450/1537/1537341/produto/152389745/01e29e7fcc.jpg",
+    "categoria": "Jóias",
+    "status": true
+  },
+  {
+    "id": 3,
+    "name": "Bracelete",
+    "desc": "Coco Chanel",
+    "value": "4760.00",
+    "image": "https://acdn.mitiendanube.com/stores/002/407/331/products/braceletge-chanel-47988ac850983abdf717092529097535-1024-1024.jpg",
+    "categoria": "Jóias",
+    "status": false
+  },
+  {
+    "id": 4,
+    "name": "Serum",
+    "desc": "Givenchy",
+    "value": "450.00",
+    "image": "https://image.harrods.com/givenchy-le-soin-noir-micro-concentre-serum-30ml_20214296_47387031_2048.jpg",
+    "categoria": "Beleza",
+    "status": true
+  },
+  {
+    "id": 5,
+    "name": "Bolsa",
+    "desc": "Louis Vitton",
+    "value": "1405.00",
+    "image": "https://br.louisvuitton.com/images/is/image/lv/1/PP_VP_M/louis-vuitton--M44813_PM2_Front%20view.jpg?wid=750&hei=870",
+    "categoria": "Artigo",
+    "status": false
+  }
+]
