@@ -2,7 +2,7 @@ import style from "./Card.module.css"
 
 export const ProductCard = ({ name, desc, categoria, value, image, status }) => {
 	return (
-		<div className={style.card}>
+		<div class="card" className={style.card}>
 			<h1>{name}</h1>
 			<h2>{desc}</h2>
 			<p>{categoria}</p>
@@ -12,3 +12,10 @@ export const ProductCard = ({ name, desc, categoria, value, image, status }) => 
 		</div>
 	)
 }
+
+// function openModal() {
+// 	var card = document.getElementById()
+// 	return (
+// 		<TiltCard/>
+// 	)
+// }
